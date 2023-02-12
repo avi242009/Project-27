@@ -33,7 +33,7 @@ function mousePressed(){
   boxes.push(
     
     
-    new Box(mouse X,mouseY,50,50)
+    new Box(mouseX,mouseY,50,50)
    
     
     )
