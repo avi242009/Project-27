@@ -24,7 +24,7 @@ function setup() {
   ground=Bodies.rectangle(100,300,400,20,option);
   World.add(world,ground);
   //box1 = new Box(200,100,50,50);
-  box1 = new Box(mouseX, mouseY,100,20)
+  //box1 = new Box(mouseX, mouseY,100,20)
 
   rectMode(CENTER);
   ellipseMode(RADIUS);
@@ -33,7 +33,7 @@ function mousePressed(){
   boxes.push(
     
     
-    new Box(50,50,40,40)
+    new Box(mouse X,mouseY,50,50)
    
     
     )
